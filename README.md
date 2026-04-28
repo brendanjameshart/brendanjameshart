@@ -1,12 +1,12 @@
 # Brendan Hart
 
-Economist. Professor of Economics at Anne Arundel Community College. Founder of [The Power Curve](https://brendanhart.com/the-power-curve), an independent research platform focused on strategic competition, political economy, and applied AI.
+I am an economist, professor, and the founder of [The Power Curve](https://brendanhart.com/the-power-curve/), an independent research and analysis on strategic competition, political economy, and applied AI. My bio and work can be found at [brendanhart.com](https://brendanhart.com).
 
 ---
 
-## Economics Primers
+## What is Here
 
-Three open-access, interactive slide presentations for introductory and intermediate economics. Each is self-contained HTML with Chart.js diagrams and speaker notes — viewable in any browser.
+Three open-access, interactive slide presentations for introductory and intermediate economics. Each is self-contained HTML with Chart.js diagrams and speaker notes — viewable in any browser. Additional repositories covering chart and report production tooling will be added over time.
 
 ### [Entry, Exit & Long-Run Profitability](https://brendanjameshart.github.io/pc-market-structures/)
 
@@ -28,8 +28,19 @@ How the U.S. central bank shapes the economy — from the mechanics of money cre
 
 ---
 
-All materials are shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and may be adapted for educational use with attribution.
+## Stack
+
+This profile hosts code and materials adjacent to that work: report production tooling, chart libraries, teaching resources, and reproducible research. Most published work is produced in Python with ReportLab for programmatic PDF builds, matplotlib for charts, and XeLaTeX with Pandoc for typeset reports. The design system uses Instrument Sans as the primary typeface, with a navy and coral palette applied across charts and report layouts. Code here is written to support that production workflow rather than as standalone software.
 
 ---
 
-[brendanhart.com](https://brendanhart.com) &nbsp;·&nbsp; [brendanhart.com/the-power-curve](https://brendanhart.com/the-power-curve)
+## Elsewhere
+
+- Website: [brendanhart.com](https://brendanhart.com)
+- The Power Curve: [brendanhart.com/the-power-curve](https://brendanhart.com/the-power-curve/)
+- LinkedIn: [linkedin.com/in/brendanjameshart](https://www.linkedin.com/in/brendanjameshart/)
+- Email: [bh@brendanhart.com](mailto:bh@brendanhart.com)
+
+---
+
+All materials are shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and may be adapted for educational use with attribution.
