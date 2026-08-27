@@ -24,9 +24,13 @@ Power shifts before consensus catches up. Incentives shape behavior. Consequence
 
 [Subscribe to The Power Curve →](https://brendanhart.com/subscribe)
 
+## Private intelligence for decision-makers
 
+I work privately with leaders confronting consequential decisions in markets, policy, strategy, and organizational performance. Through ongoing advisory work and bespoke analysis, I bring The Power Curve’s economic intelligence to the questions and decisions that matter most.
 
-## Selected work
+[Work with us →](https://brendanhart.com/work-with-us)
+
+## Selected publications
 My work examines how strategic competition, capital, technology, and institutional capacity interact to shape economic power. Current research spans capital markets, advanced technology, state capacity, cities and infrastructure, and risk and resilience.
 
 ### **[The Power Curve 2026 Outlook](https://brendanhart.com/reports/2026-outlook)**  
@@ -42,16 +46,6 @@ The July breach separated corporate control of a model from operational control 
 Prime contractors are acquiring options on the future industrial base with a rounding error of capital, and the sequence rather than the sum is what should concern policymakers.
 
 [Explore the full research library →](https://brendanhart.com/library)
-
-
-
-## Private intelligence for decision-makers
-
-I work privately with leaders confronting consequential decisions in markets, policy, strategy, and organizational performance. Through ongoing advisory work and bespoke analysis, I bring The Power Curve’s economic intelligence to the questions and decisions that matter most.
-
-[Work with us →](https://brendanhart.com/work-with-us)
-
-
 
 ## Elsewhere
 
