@@ -22,7 +22,7 @@ The Power Curve provides leaders with independent economic intelligence on the f
 
 Power shifts before consensus catches up. Incentives shape behavior. Consequences emerge with a lag. Our work identifies these forces early, clarifies their interaction, and shows what they mean for the decisions ahead.
 
-[Subscribe to The Power Curve →](https://brendanhart.com/subscribe)
+[Explore the full research library →](https://brendanhart.com/library)
 
 ## Private intelligence for decision-makers
 
@@ -45,7 +45,7 @@ The July breach separated corporate control of a model from operational control 
 *Essay · Strategic Competition · July 2026*  
 Prime contractors are acquiring options on the future industrial base with a rounding error of capital, and the sequence rather than the sum is what should concern policymakers.
 
-[Explore the full research library →](https://brendanhart.com/library)
+[Subscribe to The Power Curve →](https://brendanhart.com/subscribe)
 
 ## Elsewhere
 
