@@ -2,31 +2,21 @@
 
 **Economist | Founder, The Power Curve**
 
-Independent economic intelligence for leaders who need to understand how markets, institutions, technology, and capital shape power before it becomes consensus.
-
-
-
 ## About
 
-I am an economist, entrepreneur, and executive advisor with two decades of experience building organizations and leading transformation across technology, defense, human capital, and government.
+I am an economist, entrepreneur, and executive advisor with two decades of experience building organizations and leading transformation across technology, defense, human capital, and government. My work connects economic analysis with the decisions leaders face when allocating capital, building institutional capacity, and setting strategy under uncertainty.
 
-My writing, teaching, and advisory work applies economic analysis to questions of power, strategic capacity, and institutional performance.
+Through my writing, teaching, and advisory work, I examine how markets, institutions, technology, and capital shape economic power. My work translates structural change into economic intelligence: where power is accumulating, what drives its concentration, and how it affects investment, policy, and competition. My perspective combines an economist’s focus on incentives, constraints, and institutions with an entrepreneur’s understanding of what it takes to build and execute.
 
-I began my career as a team leader in the [United States Marine Corps premier antiterrorism unit](https://en.wikipedia.org/wiki/Marine_Corps_Security_Force_Regiment#Fleet_Anti-terrorism_Security_Team_(FAST)_companies) before co-founding BMNT and SVA. I hold degrees from Dartmouth College and the University of Virginia Darden School of Business.
+I began my career as a team leader in the United States Marine Corps premier antiterrorism unit before co-founding BMNT and SVA. My experience across government and business informs my approach to turning strategic ambition into organizational capability.
 
-
+I hold degrees from Dartmouth College and the University of Virginia Darden School of Business.
 
 ## The Power Curve
 
-The Power Curve provides leaders with independent economic intelligence on the forces reshaping markets, policy, and strategy.
-
-Power shifts before consensus catches up. Incentives shape behavior. Consequences emerge with a lag. Our work identifies these forces early, clarifies their interaction, and shows what they mean for the decisions ahead.
+The Power Curve explores how, why, and where economic power compounds. We focus on the forces reshaping the allocation of capital, the terms of competition, and the choices available to governments and businesses.
 
 [Explore the full research library →](https://brendanhart.com/library)
-
-## Private intelligence for decision-makers
-
-I work privately with leaders confronting consequential decisions in markets, policy, strategy, and organizational performance. Through ongoing advisory work and bespoke analysis, I bring The Power Curve’s economic intelligence to the questions and decisions that matter most.
 
 [Work with us →](https://brendanhart.com/work-with-us)
 
