@@ -1,6 +1,4 @@
-# Brendan Hart
-
-**Economist | Founder, The Power Curve**
+# Brendan Hart | Economist | Founder, The Power Curve
 
 ## About
 
